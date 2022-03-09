@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484091673261",
+    "project_id": "xtech-bingo",
+    "storage_bucket": "xtech-bingo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484091673261:android:c33de7ed0e71c12f9de424",
+        "android_client_info": {
+          "package_name": "com.xtech.bingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484091673261-vj5vjfdder98canran9akvpal3reva7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK8WuCextIwlOzU9g_GURx3_gjOA2qaWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484091673261-vj5vjfdder98canran9akvpal3reva7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

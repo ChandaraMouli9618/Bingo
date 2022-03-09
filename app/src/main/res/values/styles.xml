@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button_style">
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@drawable/button_background</item>
+    </style>
+
+    <style name="grid_attributes">
+        <item name="android:layout_width">42dp</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/test_1</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textColor">@color/main_theme_color</item>
+        <item name="android:background">@drawable/grid_element_background</item>
+        <item name="android:tag">0</item>
+
+    </style>
+</resources>
